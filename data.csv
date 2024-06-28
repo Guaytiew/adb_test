@@ -1,0 +1,8 @@
+ConstraintName
+employee_pk
+employee_fk
+department_pk1
+project_fk2
+project_manager_fk3
+task_pk2
+unique_constraint
