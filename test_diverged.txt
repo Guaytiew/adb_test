@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 >.<
 I wanna be king of cats
+=======
+I always love you my holy cat >.<
+>>>>>>> 84a1c8ca923d2e630d8ec75fd19937b315145e64
