@@ -6,3 +6,5 @@ Maowwww Maowwww (current)
 
 Mew Mew (both)
 Bark Bark (both)
+
+hello dog (only local)
