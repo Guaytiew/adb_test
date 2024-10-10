@@ -1,0 +1,12 @@
+*credential*
+*test_gitpython*
+
+*.pycache*
+*.ipynb
+*.coverage
+*.csv
+*.txt
+
+*cache*
+*dummy*
+*data*
