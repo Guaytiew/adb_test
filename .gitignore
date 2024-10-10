@@ -5,7 +5,7 @@
 *.ipynb
 *.coverage
 *.csv
-*.txt
+test*.txt
 
 *cache*
 *dummy*

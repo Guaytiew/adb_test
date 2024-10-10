@@ -3,8 +3,8 @@
 jupyter nbconvert --to script your_notebook.ipynb
 
 
-pytest --cov=example
-
+cmd to run test: pytest --cov=example
+jenkins workspace path: C:\ProgramData\Jenkins\.jenkins\workspace\<job_name>\
 
 STEP TO CICD:-
 4. **Create a Jenkins Job**:
