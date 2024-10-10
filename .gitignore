@@ -1,5 +1,10 @@
 *credential*
+*test_gitpython*
+
 *.pyc
-test_gitpython
+*.ipynb
 *.coverage
+
 *cache*
+*dummy*
+*data*
